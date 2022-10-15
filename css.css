@@ -1,0 +1,33 @@
+body{
+    background-color: yellowgreen;
+}
+.contaner{
+    width: 350px;
+    height: 350px;
+    background-color: white;
+    margin: 150px auto;
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    padding: 40px 50px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+
+form input{
+    margin: 20px auto;
+    padding: 15px;
+    width: 49%;
+    position: relative;
+    top: 20px;
+    border: 0;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+    
+}
+a{
+    text-decoration: none;
+}
+#d2{
+    background-color: steelblue;
+}
